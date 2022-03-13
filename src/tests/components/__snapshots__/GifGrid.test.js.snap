@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGrid /> debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__pulse"
+  >
+     
+    Saint Seiya
+     
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  >
+    <ul />
+  </div>
+</Fragment>
+`;
